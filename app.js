@@ -1,4 +1,4 @@
-//Countdown Timer
+//Countdownee Timer
 const clockdiv = document.getElementById("countdown");
 const countDownTime = new Date(
   clockdiv.getAttribute("data-date")

@@ -2,7 +2,7 @@
 
 This repo is a work-in-progress and pairs with the Mint 10k NFT project. 
 
-## Video Walkthrough
+## Video Waldkthrough
 
 [![Thumbnail](https://img.youtube.com/vi/WZQSVv67NBc/maxresdefault.jpg)](https://youtu.be/WZQSVv67NBc)
 
